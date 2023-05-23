@@ -1,0 +1,10 @@
+button {
+  color: black;
+  background-color: rgb(243, 94, 89);
+  padding: 15px 25px;
+  position: absolute;
+  left: 45%;
+  border-radius: 5px;
+  font-weight: bold;
+  border-width: thin;
+}
